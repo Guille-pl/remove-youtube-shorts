@@ -5,7 +5,7 @@ A Chrome extension for hiding all YouTube Shorts videos, tabs and general access
 <img width="120" height="120" align="left" style="float: left" src="/media/">
 
 ## Installation - Loading an unpacked extension
-<img width=350 style="align: center" src="https://i.imgur.com/uJJnLNr.png">
+<img width=350 style="align: center" src="/media/">
 
 1. Download the .zip file
 
