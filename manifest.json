@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Youtube Shorts Remover",
+  "description": "Hide all YouTube Shorts videos, tabs and general access on YouTube",
+  "version": "0.1",
+  "action": {
+    "default_popup": "hello.html",
+    "default_icon": "media/icon48.png"
+  }
+}
